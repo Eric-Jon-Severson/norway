@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "home"
+        "plotly_django_tutorial"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
